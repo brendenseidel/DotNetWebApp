@@ -1,0 +1,14 @@
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\bin\Debug\netcoreapp2.1\DotNetWebApp.deps.json
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\bin\Debug\netcoreapp2.1\DotNetWebApp.runtimeconfig.json
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\bin\Debug\netcoreapp2.1\DotNetWebApp.runtimeconfig.dev.json
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\bin\Debug\netcoreapp2.1\DotNetWebApp.dll
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\bin\Debug\netcoreapp2.1\DotNetWebApp.pdb
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\obj\Debug\netcoreapp2.1\DotNetWebApp.csprojAssemblyReference.cache
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\obj\Debug\netcoreapp2.1\DotNetWebApp.csproj.CoreCompileInputs.cache
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\obj\Debug\netcoreapp2.1\DotNetWebApp.RazorAssemblyInfo.cache
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\obj\Debug\netcoreapp2.1\DotNetWebApp.RazorAssemblyInfo.cs
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\obj\Debug\netcoreapp2.1\DotNetWebApp.AssemblyInfoInputs.cache
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\obj\Debug\netcoreapp2.1\DotNetWebApp.AssemblyInfo.cs
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\obj\Debug\netcoreapp2.1\DotNetWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\obj\Debug\netcoreapp2.1\DotNetWebApp.dll
+C:\Users\brendenseidel\Documents\Source\LocalOnly\DotNetWebApp\obj\Debug\netcoreapp2.1\DotNetWebApp.pdb
